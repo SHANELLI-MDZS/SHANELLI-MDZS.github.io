@@ -1,0 +1,64 @@
+body {background-image: url(foto.jfif);}
+h1 {background-position: center;
+background-color: rgb(226, 19, 19);
+color: azure;
+font-family: cursive;
+font-size: 40px;
+text-align: center;}
+h2 { background-color: rgb(226, 109, 12);
+    color: rgb(29, 24, 17);
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;}
+    p { background-color: rgb(250, 246, 25);
+        color: black;
+        font-family: monospace;
+        font-size: 15px;}
+        h4{color: black;}
+.imagen img{border-radius: 200px;
+margin-top: 100px;
+width: 180px;
+height: 200px;
+border: lightcoral;
+display: block;
+margin:0 auto}
+h3 {color: rgb(50, 8, 92);
+background-color: rgb(82, 235, 95);}
+p{color: rgb(6, 14, 14);}
+table{color: rgb(5, 35, 39);
+background-color: coral;
+border: rgb(142, 88, 196) solid ;
+width: 90%;
+text-align: 100px;
+text-align: center;}
+th{ border: rgb(182, 97, 82);
+    background-color: white;}
+    td{border: rgb(50, 163, 167) solid;
+    background-color: teal;}
+    .tec {background:violet}
+.ul{ margin: auto;
+width: 67%;
+padding: 35px;
+background-color: rgb(33, 23, 167);
+color: white;
+margin-bottom: 25px;}    
+.ol {margin: auto;
+    width: 67%;
+    padding: 35px;
+    background-color: rgb(108, 7, 155);
+    color: white;   }
+form { width: 500px;
+border: 3px solid rgb(33, 23, 167);
+margin: 100px;
+padding: 50px;
+background-color: skyblue;}
+label { font-size: 12px;
+display: block;
+color: rgb(7, 67, 247);}
+input {margin-bottom: 23px;
+width: 480px;}
+textarea { display: block;
+margin-bottom: 30;
+width: 500px;}
+button{ width: 100px;}
+input:focus {border: 2px solid rosybrown;}
